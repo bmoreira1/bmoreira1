@@ -2,7 +2,7 @@
 ##
 - 📘 Sou estudante de Ciências da computação 
 - ✨ Foco de aprendizagem em programação
-- 🏢 Aflorando meu lado Developer com ReactNative 
+- 🏢 Aflorando meu lado Developer com React
 - 💬 gosto de conversar e incentivar pessoas
 - ⚡ Fato interessante: Fui caminhoneiro profissional, rodei por vários lugares do país!
 -->
