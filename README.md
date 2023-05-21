@@ -23,8 +23,7 @@
   ##
   
   <div> 
-  <a href="https://www.linkedin.com/in/2brunomoreira/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
-    <a href="https://www.instagram.com/brunobmoreira1/" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
-<a href="https://www.linkedin.com/in/2brunomoreira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target=_blank"></a>
+  <a href="https://www.linkedin.com/in/2brunomoreira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+    <a href="https://www.instagram.com/brunobmoreira1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   </div>
   
