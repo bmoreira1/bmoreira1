@@ -2,9 +2,7 @@
 ##
 - 📘 Sou estudante de Ciências da computação 
 - ✨ Foco de aprendizagem em programação
-- 🏢 Aflorando meu lado Developer com PHP
-- 💬 gosto de conversar e incentivar pessoas
-- ⚡ Fato interessante: Fui caminhoneiro profissional, rodei por vários lugares do país!
+- 💬 gosto de conversar e incentivar pessoas, do desafio de me superar sempre e gerar soluções!
 -->
 
 ##
